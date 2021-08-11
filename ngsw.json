@@ -1,0 +1,147 @@
+{
+  "configVersion": 1,
+  "timestamp": 1628713977417,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.js",
+        "/manifest.webmanifest",
+        "/polyfills.js",
+        "/runtime.js",
+        "/styles.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Nunito-Black.ttf",
+        "/Nunito-Bold.ttf",
+        "/Nunito-Light.ttf",
+        "/Nunito-Regular.ttf",
+        "/Nunito-SemiBold.ttf",
+        "/assets/Nunito/Nunito-Black.ttf",
+        "/assets/Nunito/Nunito-BlackItalic.ttf",
+        "/assets/Nunito/Nunito-Bold.ttf",
+        "/assets/Nunito/Nunito-BoldItalic.ttf",
+        "/assets/Nunito/Nunito-ExtraBold.ttf",
+        "/assets/Nunito/Nunito-ExtraBoldItalic.ttf",
+        "/assets/Nunito/Nunito-ExtraLight.ttf",
+        "/assets/Nunito/Nunito-ExtraLightItalic.ttf",
+        "/assets/Nunito/Nunito-Italic.ttf",
+        "/assets/Nunito/Nunito-Light.ttf",
+        "/assets/Nunito/Nunito-LightItalic.ttf",
+        "/assets/Nunito/Nunito-Regular.ttf",
+        "/assets/Nunito/Nunito-SemiBold.ttf",
+        "/assets/Nunito/Nunito-SemiBoldItalic.ttf",
+        "/assets/Nunito/OFL.txt",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/American-Express-Logo.png",
+        "/assets/images/MasterCard_early_1990s_logo.png",
+        "/assets/images/banner-1.jpg",
+        "/assets/images/banner-2.jpg",
+        "/assets/images/banner-3.jpg",
+        "/assets/images/category.png",
+        "/assets/images/logo.jpeg",
+        "/assets/images/rollo-1.png",
+        "/assets/images/rollo-2.png",
+        "/assets/images/rollo-3.png",
+        "/assets/images/rollo-4.png",
+        "/assets/images/rollo-5.png",
+        "/owl.video.play.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Nunito-Black.ttf": "1dd5568814c19e6fccb716d6f555144853eeae9d",
+    "/Nunito-Bold.ttf": "231df28194a466da9e8ad72532164f50ad5f8750",
+    "/Nunito-Light.ttf": "900d95ad1ebc89f6aef490a92680cf8b56193b6b",
+    "/Nunito-Regular.ttf": "07822103331d2ebc7756a0746d8f34a7210a68ed",
+    "/Nunito-SemiBold.ttf": "91ab95e4bfedccb234e05305eeb2de76e5f5f66a",
+    "/assets/Nunito/Nunito-Black.ttf": "1dd5568814c19e6fccb716d6f555144853eeae9d",
+    "/assets/Nunito/Nunito-BlackItalic.ttf": "8c40f561b031c0a0a371f3f17b1979dd8caf1188",
+    "/assets/Nunito/Nunito-Bold.ttf": "231df28194a466da9e8ad72532164f50ad5f8750",
+    "/assets/Nunito/Nunito-BoldItalic.ttf": "801886b95ae73bb2426778471e2696f38b89219a",
+    "/assets/Nunito/Nunito-ExtraBold.ttf": "68561c75ac751b3817285043aef9d2a1cd240f26",
+    "/assets/Nunito/Nunito-ExtraBoldItalic.ttf": "26cf6f8877d6c080e141d0f76828df2425033340",
+    "/assets/Nunito/Nunito-ExtraLight.ttf": "96ad0ae5bf729625fc73f9ac19a23171310f97c8",
+    "/assets/Nunito/Nunito-ExtraLightItalic.ttf": "9a7c978349f6d55d7d4fe8195f788031c4f5d116",
+    "/assets/Nunito/Nunito-Italic.ttf": "7f33350e63b55455f6e129392838087f52d99384",
+    "/assets/Nunito/Nunito-Light.ttf": "900d95ad1ebc89f6aef490a92680cf8b56193b6b",
+    "/assets/Nunito/Nunito-LightItalic.ttf": "03a800f77ab45fbc195abb4efdb8a427500cdc7a",
+    "/assets/Nunito/Nunito-Regular.ttf": "07822103331d2ebc7756a0746d8f34a7210a68ed",
+    "/assets/Nunito/Nunito-SemiBold.ttf": "91ab95e4bfedccb234e05305eeb2de76e5f5f66a",
+    "/assets/Nunito/Nunito-SemiBoldItalic.ttf": "bee3ec5969fb67257e0f327f2750de262f306f21",
+    "/assets/Nunito/OFL.txt": "ea1d3dd9f212f4cdc16caa33faa6ebe48860a8c4",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/American-Express-Logo.png": "5621926bd1ffecc9306a46b45abef5c86931830d",
+    "/assets/images/MasterCard_early_1990s_logo.png": "f0954bdfd8093c9b959ccaeeb391223862d9db13",
+    "/assets/images/banner-1.jpg": "37d2232875fe492d9ba92593dbf8239bdc062ced",
+    "/assets/images/banner-2.jpg": "e3e6172d17cc4b283fc10ac71e7bfe83b2b9240b",
+    "/assets/images/banner-3.jpg": "58e205bc1e4534504f6b6e84e09e0973f9cd3d1a",
+    "/assets/images/category.png": "cf2f1d1b129ee750ad19ec9f7a09f22ec1d3946c",
+    "/assets/images/logo.jpeg": "8b422cd34e7526a6ae1e3a5712398b8987600786",
+    "/assets/images/rollo-1.png": "296beb00237516262f0bfc087f85f6a0c2cbaf2a",
+    "/assets/images/rollo-2.png": "e9658bcbc0ae31cc7f932464e7394957185c9b60",
+    "/assets/images/rollo-3.png": "79dc231a01cc8c877776166374e4a75f25819b3d",
+    "/assets/images/rollo-4.png": "574c44b98cd9f5f15219f05c6f8eea1f89cc76aa",
+    "/assets/images/rollo-5.png": "8e5813495e0714856a9daef62099d41b35a4795e",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "f145018a9ab4a6a02b07324246d0f9fda0f874df",
+    "/main.js": "e9cb01de317670fec7b7c82a16d1b71c51f5927f",
+    "/manifest.webmanifest": "41c782deb668407e3bb7f91e974aad1e0b18126c",
+    "/owl.video.play.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
+    "/polyfills.js": "ca55bb9c10f722e352cbb01f5bda05bb3cde2792",
+    "/runtime.js": "b20c004b4e71741c3a0cad45ccfbdcc77d6d39fa",
+    "/styles.css": "5dd050ce748ebd9d70f731b67b96592618b3b1e0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
